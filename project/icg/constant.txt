@@ -1,0 +1,22 @@
+b = 1  
+t1 = true  
+t2 = false  
+a = false  
+t3 = false  
+ifFalse false goto L1
+n = 1  
+t4 = n + 1
+n = t4  
+goto L2
+L1 :
+L3 :
+m = 2  
+t5 = 3  
+x = 3  
+t6 = x + 1
+x = t6  
+t7 = true  
+ifFalse true goto L4
+goto L3
+L4 :
+L4 :

@@ -1,0 +1,8 @@
+NAME	TYPE	SCOPE	VALUE	SIZE
+x	int	1.1.1	4	4	
+m	int	1.1.1	2	4	
+n	int	1.1.1	2	4	
+a	boolean	1.1.1	b	1	
+b	int	1.1.1	1	4	
+main	void	1.1	(null)	4	
+a	class	1	(null)	4	

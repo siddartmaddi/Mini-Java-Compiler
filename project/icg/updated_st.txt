@@ -1,0 +1,3 @@
+NAME	TYPE	SCOPE	VALUE	SIZE
+t6	int	1.1.1	NA	4	
+x	int	1.1.1	3	4	

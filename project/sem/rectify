@@ -1,0 +1,39 @@
+
+class a
+{
+	public static void main(String args[])
+	{
+		int s;
+		int s;
+		int p = 2.1; // incompatiable type
+		int n = 5;
+		int fact = 1;
+		double b = 2.3,i;
+		b += 3;
+		double a = b * b;
+		//single line comment
+		do
+		{
+			i = a + n;
+			fact = fact * n;
+
+
+		}
+		while(0>1);
+		var = 3; //undeclared error
+		/*
+		this is multi line comment 
+		*/
+		if(1>0)
+		{
+			int t = s*20/30-40; // uninit error
+		}
+		else
+		{
+			int y = t*20;
+		}
+		double  z= p;
+	}				
+}
+
+	

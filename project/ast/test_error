@@ -1,0 +1,36 @@
+
+class a
+{
+	public static void main(String args[])
+	{
+		double p = 2.1;
+		in n = 5;
+		int fact = 1;
+		double b = 2.3,i;
+		b += 3
+		double a = b * b;
+		//single line comment
+		do
+		{
+			i = a + n;
+			fact = fact * n;
+
+
+		}
+		while(0>1);
+		/*
+		this is multi line comment 
+		*/
+		if(1>0)
+		{
+			int t = 10*20/30-40;
+		}
+		els
+		{
+			int y = t*20;
+		}
+		double  z= p;
+	}				
+}
+
+	

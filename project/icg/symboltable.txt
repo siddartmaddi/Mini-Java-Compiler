@@ -1,0 +1,13 @@
+NAME	TYPE	SCOPE	VALUE	SIZE
+t7	boolean	1.1.1	(null)	1	
+t6	int	1.1.1	(null)	4	
+x	int	1.1.1	(null)	4	
+t5	int	1.1.1	(null)	4	
+m	int	1.1.1	(null)	4	
+t4	int	1.1.1	(null)	4	
+n	int	1.1.1	(null)	4	
+t3	boolean	1.1.1	(null)	1	
+a	boolean	1.1.1	(null)	1	
+t2	boolean	1.1.1	(null)	1	
+t1	boolean	1.1.1	(null)	1	
+b	int	1.1.1	(null)	4	
